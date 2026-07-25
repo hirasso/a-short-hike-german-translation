@@ -1,3 +1,7 @@
+# A Short Hike: Deutsche Übersetzung
+
+_A Short Hike: German Translation_
+
 ![A Short Hike](a-short-hike-cover.jpg)
 
 **[ashorthike.com](https://ashorthike.com/)**
