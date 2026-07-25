@@ -1,0 +1,3 @@
+# Use "du" uniformly for the German translation
+
+German requires choosing between informal ("du") and formal ("Sie") second-person address, and mixing them per-character (e.g. "Sie" for elders like Aunt May, park rangers) was a real option. We chose uniform "du" across every character, including elders and authority figures, to match the game's warm, unpretentious tone — the English script has no register shift between characters, and introducing formal/informal splits would read as more socially stratified than the source material intends. This is hard to reverse (touches every Line with dialogue) and would surprise a future translator who might expect German convention to favor "Sie" for elders by default.
