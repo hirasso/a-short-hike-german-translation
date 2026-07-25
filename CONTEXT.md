@@ -23,3 +23,6 @@ The target ceiling for a translated Line's character count, set per-row at rough
 
 **Address form**:
 Whether dialogue uses German's informal ("du") or formal ("Sie") second person. See [ADR-0001](./docs/adr/0001-informal-address-form.md).
+
+**LANG_German.yarn_lines.csv** vs **LANG_German_Full.yarn_lines.csv**:
+The shipped/active translation (symlinked into the game's Contents folder) keeps place names in exact English per [ADR-0003](./docs/adr/0003-revert-place-names-to-english.md). `LANG_German_Full.yarn_lines.csv` is a frozen snapshot from before that reversal, with place names still translated into German — kept for reference/rollback, not loaded by the game.

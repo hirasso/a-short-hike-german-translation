@@ -1,6 +1,6 @@
 LineCode,LineText,OriginalText,Comment,Speaker,StoryNode
-line:e1d917,"<sprite tint=1 name=""LeftArrow""> White Coast Trail","<sprite tint=1 name=""LeftArrow""> White Coast Trail",,Original,HomeSignStart
-line:8e78cb,"Rangers Cabin <sprite name=""RightArrow"" tint=1>","Rangers Cabin <sprite name=""RightArrow"" tint=1>",,Original,HomeSignStart
+line:e1d917,"<sprite tint=1 name=""LeftArrow""> Weißküstenpfad","<sprite tint=1 name=""LeftArrow""> White Coast Trail",,Original,HomeSignStart
+line:8e78cb,"Rangerhütte <sprite name=""RightArrow"" tint=1>","Rangers Cabin <sprite name=""RightArrow"" tint=1>",,Original,HomeSignStart
 line:2a55e5,"entschuldige, hast du die Uhrzeit?",excuse me do you have the time?,,Original,GoatStart
 line:b03acc,"ähm, lass mich mal nachse-","um yeah, let me chec-",,Player,GoatStart
 line:445422,na ja... normalerweise weiß ich das schon,see... normally i would know the time,,Original,GoatStart
@@ -18,10 +18,10 @@ line:deb271,"nein, keine Sorge","no, don't worry",,Player,GoatStart
 line:6a5e2f,ich bring sie sofort zurück,i'll bring it right back,,Player,GoatStart
 line:0c1b44,ok,ok,,Original,GoatStart
 line:55e682,danke,thanks,,Original,GoatStart
-line:1cf998,"<sprite tint=1 name=""UpArrow""> Rangers Cabin","<sprite tint=1 name=""UpArrow""> Rangers Cabin",,Original,BeachHutSign
-line:6df2cf,"<sprite name=""DownArrow"" tint=1> White Coast Trail","<sprite name=""DownArrow"" tint=1> White Coast Trail",,Original,BeachHutSign
-line:6794ce,"<sprite tint=1 name=""UpArrow""> Hawk Peak Trail\nWhite Coast Trail <sprite name=""RightArrow"" tint=1>","<sprite tint=1 name=""UpArrow""> Hawk Peak Trail\nWhite Coast Trail <sprite name=""RightArrow"" tint=1>",,Original,WhiteCoastSign
-line:24d728,"<sprite tint=1 name=""DownArrow""> Sid Beach\n<sprite tint=1 name=""DownArrow""> Visitor Center\n","<sprite tint=1 name=""DownArrow""> Sid Beach\n<sprite tint=1 name=""DownArrow""> Visitor Center\n",,Original,WhiteCoastSign
+line:1cf998,"<sprite tint=1 name=""UpArrow""> Rangerhütte","<sprite tint=1 name=""UpArrow""> Rangers Cabin",,Original,BeachHutSign
+line:6df2cf,"<sprite name=""DownArrow"" tint=1> Weißküstenpfad","<sprite name=""DownArrow"" tint=1> White Coast Trail",,Original,BeachHutSign
+line:6794ce,"<sprite tint=1 name=""UpArrow""> Habichtsgipfelpfad\nWeißküstenpfad <sprite name=""RightArrow"" tint=1>","<sprite tint=1 name=""UpArrow""> Hawk Peak Trail\nWhite Coast Trail <sprite name=""RightArrow"" tint=1>",,Original,WhiteCoastSign
+line:24d728,"<sprite tint=1 name=""DownArrow""> Sid-Strand\n<sprite tint=1 name=""DownArrow""> Besucherzentrum\n","<sprite tint=1 name=""DownArrow""> Sid Beach\n<sprite tint=1 name=""DownArrow""> Visitor Center\n",,Original,WhiteCoastSign
 line:c3feb2,hey! wo willst du denn hin?,hey! where do you think you're going?,Only if the player runs off without talking to the Aunt first.,Original,AuntRunOffStart
 line:660020,"oh, äh...","oh, um...",,Player,AuntRunOffStart
 line:94ad70,"du willst doch nicht einfach\nabhauen, ohne der alten\nTante May hallo zu sagen?","you're not going to just wander\noff without saying hi to old\nAunt May, are you?",,Original,AuntRunOffStart
@@ -43,7 +43,7 @@ line:122c03,hier draußen gibt's keinen Empfang,there's no reception out here,,O
 line:895cf8,warte...,wait...,,Player,AuntIntroEnd
 line:85a826,WAS!?,WHAT!?,,Player,AuntIntroEnd
 line:264290,"ja, ich meine, so gut wie\nkein Empfang","yeah, i mean, pretty much\nno reception",,Original,AuntIntroEnd
-line:8a1b8c,am <color=red>Hawk Peak</color> hast du\nvielleicht welchen,you might be able to get\nsome at <color=red>Hawk Peak</color>,,Original,AuntIntroEnd
+line:8a1b8c,am <color=red>Habichtsgipfel</color> hast du\nvielleicht welchen,you might be able to get\nsome at <color=red>Hawk Peak</color>,,Original,AuntIntroEnd
 line:c175a4,"oh... ja, wohl schon",oh... yeah i guess,,Player,AuntIntroEnd
 line:f8213b,"aber das ist doch ziemlich\nweit, oder?",but that's pretty far\nisn't it?,,Player,AuntIntroEnd
 line:b5e4af,so weit ist das gar nicht!,it's not that far!,,Original,AuntIntroEnd
@@ -56,10 +56,10 @@ line:97eccf,ich hab einfach,i just,,Player,AuntIntroEnd
 line:43b28d,es noch nicht geschafft,haven't gotten around to it yet,,Player,AuntIntroEnd
 line:7a4449,heute ist doch ein\nguter Tag dafür!,well today's as good a day\nas any!,,Original,AuntIntroEnd
 line:69a1a3,...,...,Claire is silent because she has been avoiding this hike - she's nervous it will too hard.,Player,AuntIntroEnd
-line:665732,nimm einfach den <color=red>White Coast Trail</color>\nund geh an der Gabelung <color=red>nach Norden</color>,just take <color=red>White Beach Trail</color>\nand head <color=red>north</color> at the fork,,Original,AuntIntroEnd
-line:4a3aac,dann folg einfach den Schildern\nzum <color=red>Hawk Peak</color>,then follow the signs\nfor <color=red>Hawk Peak</color>,,Original,AuntIntroEnd
+line:665732,nimm einfach den <color=red>Weißküstenpfad</color>\nund geh an der Gabelung <color=red>nach Norden</color>,just take <color=red>White Beach Trail</color>\nand head <color=red>north</color> at the fork,,Original,AuntIntroEnd
+line:4a3aac,dann folg einfach den Schildern\nzum <color=red>Habichtsgipfel</color>,then follow the signs\nfor <color=red>Hawk Peak</color>,,Original,AuntIntroEnd
 line:afa6b1,kein Problem!,no problem!,,Original,AuntIntroEnd
-line:e4f197,der <color=red>Hawk Peak</color> ist wirklich wunderschön,<color=red>Hawk Peak</color> really is wonderful,Only if the player continues to talk to the Aunt.,Original,AuntChat
+line:e4f197,der <color=red>Habichtsgipfel</color> ist wirklich wunderschön,<color=red>Hawk Peak</color> really is wonderful,Only if the player continues to talk to the Aunt.,Original,AuntChat
 line:8866aa,du wirst ihn lieben!,you're going to love it!,,Original,AuntChat
 line:3f786f,ja... ich hab schon viel davon gehört,yeah... i've heard a lot about it,,Player,AuntChat
 line:1a3a17,es ist schon eine ordentliche Wanderung,"it's quite a hike, sure",,Original,AuntChat
@@ -182,11 +182,11 @@ line:b94465,"ok, mann!",okay geez!,,Player,OtherKidStart
 line:961fbd,was soll ich sagen,what can i say,,Original,OtherKidStart
 line:974e98,ich führ ein strenges Regiment,i run a tight ship,,Original,OtherKidStart
 line:e38563,hmmm,hmmm,,Original,FoxStart
-line:b29d15,ich wollte eigentlich zum\n<color=red>Hawk Peak</color> wandern,i was planning on hiking\nto <color=red>Hawk Peak</color>,,Original,FoxStart
+line:b29d15,ich wollte eigentlich zum\n<color=red>Habichtsgipfel</color> wandern,i was planning on hiking\nto <color=red>Hawk Peak</color>,,Original,FoxStart
 line:7ba030,aber der Weg wurde plötzlich richtig steil,but the path suddenly got really steep,,Original,FoxStart
 line:83c6cd,"denkst du, man kann da hochklettern?",do you think it's climbable?,,Player,FoxStart
 line:bb9ad1,"na ja, würde gehen, wenn ich eine\n<color=red>goldene Feder</color> hätte","well, it would be if i had\na <color=red>golden feather</color>",,Original,FoxStart
-line:c5407a,die verkaufen sie wohl\nim <color=red>Visitor Center</color>,apparently they sell them\nat the <color=red>Visitor Center</color>,,Original,FoxStart
+line:c5407a,die verkaufen sie wohl\nim <color=red>Besucherzentrum</color>,apparently they sell them\nat the <color=red>Visitor Center</color>,,Original,FoxStart
 line:4cacb9,und wie funktionieren <color=red>goldene Federn</color>?,"so, how do <color=red>golden feathers</color> work?",If the player talks to them again.,Player,FoxStart
 line:37e9e6,"na ja, wenn du eine\nin der Tasche hast","well, when you've got\none in your pocket",,Original,FoxStart
 line:477585,fühlst du dich viel leichter,you'll feel much lighter,,Original,FoxStart
@@ -194,7 +194,7 @@ line:3bbcd0,dann klettert man leichter\ndie Felsen hoch!,that makes it easier to
 line:e82492,woah,woah,,Player,FoxStart
 line:5dd075,das ist ziemlich cool,that's pretty cool,,Player,FoxStart
 line:9d3ba7,ist es auch!,it is indeed!,,Original,FoxStart
-line:2c9d43,wieso gehst du eigentlich zum Hawk Peak?,so why are you going to Hawk Peak?,If the player talks to them again.,Player,FoxStart
+line:2c9d43,wieso gehst du eigentlich zum Habichtsgipfel?,so why are you going to Hawk Peak?,If the player talks to them again.,Player,FoxStart
 line:cf58a9,ich will oben tolle\nNaturfotos machen,i'm going to take some great\nnature shots from the top,,Original,FoxStart
 line:f9074d,"so professionell fotografier ich jetzt auch nicht, aber...",i wouldn't call myself a photographer but...,,Original,FoxStart
 line:02b8b9,ist einfach ein cooles Hobby,it's just a fun hobby,,Original,FoxStart
@@ -269,23 +269,23 @@ line:f9fe9a,noch!,yet!,,Player,BuyFeatherStart
 line:df579f,oh,oh,The next time the player doesn't have enough money.,Player,BuyFeatherStart
 line:1cb666,"ja, hab ich vergessen",yeah i forgot,,Player,BuyFeatherStart
 line:8cc5ff,ich muss noch mehr Geld auftreiben,i still need to find more cash,,Player,BuyFeatherStart
-line:16706a,"<sprite name=""UpArrow"" tint=1> Visitor Center\n<sprite tint=1 name=""LeftArrow""> Hawk Peak Trail","<sprite name=""UpArrow"" tint=1> Visitor Center\n<sprite tint=1 name=""LeftArrow""> Hawk Peak Trail",This is a sign.,Original,VistorCenterCrossroadsStart
-line:81143b,"Sid Beach <sprite tint=1 name=""RightArrow"">\n<sprite tint=1 name=""DownArrow""> Shirley's Point","Sid Beach <sprite tint=1 name=""RightArrow"">\n<sprite tint=1 name=""DownArrow""> Shirley's Point",,Original,VistorCenterCrossroadsStart
-line:eb7a43,"<sprite name=""UpArrow"" tint=1> Blackwood Trail\n<sprite name=""LeftArrow"" tint=1> Hawk Peak Trail","<sprite name=""UpArrow"" tint=1> Blackwood Trail\n<sprite name=""LeftArrow"" tint=1> Hawk Peak Trail",,Original,KioskSignStart
-line:1024d7,"<sprite name=""DownArrow"" tint=1> Visitor Center\nWhite Coast Trail <sprite name=""RightArrow"" tint=1>","<sprite name=""DownArrow"" tint=1> Visitor Center\nWhite Beach Trail <sprite name=""RightArrow"" tint=1>",,Original,KioskSignStart
-line:4957ee,"<sprite name=""UpArrow"" tint=1> Hawk Peak Trail\n<sprite name=""UpArrow"" tint=1> Good Creek Path","<sprite name=""UpArrow"" tint=1> Hawk Peak Trail\n<sprite name=""UpArrow"" tint=1> Good Creek Path",,Original,HawkPeakRiverSignStart
-line:628d3d,"<sprite name=""LeftArrow"" tint=1> Royal Ridge\nBlackwood Trail <sprite name=""RightArrow"" tint=1>","<sprite name=""LeftArrow"" tint=1> Royal Ridge\nBlackwood Trail <sprite name=""RightArrow"" tint=1>",,Original,HawkPeakRiverSignStart
-line:326ae7,"<sprite name=""UpArrow"" tint=1> Hawk Peak Trail\n<sprite name=""UpArrow"" tint=1> Good Creek Path","<sprite name=""UpArrow"" tint=1> Hawk Peak Trail\n<sprite name=""UpArrow"" tint=1> Good Creek Path",,Original,RoyalRidgeSignStart
-line:ede0b0,"<sprite name=""DownArrow"" tint=1> Blackwood Trail\n<sprite name=""LeftArrow"" tint=1> Royal Ridge","<sprite name=""DownArrow"" tint=1> Blackwood Trail\n<sprite name=""LeftArrow"" tint=1> Royal Ridge",,Original,RoyalRidgeSignStart
-line:b2763c,"<sprite name=""UpArrow"" tint=1> Hawk Peak Trail\n<sprite name=""DownArrow"" tint=1> Good Creek Path\nMeteor Lake <sprite name=""RightArrow"" tint=1>","<sprite name=""UpArrow"" tint=1> Hawk Peak Trail\n<sprite name=""DownArrow"" tint=1> Good Creek Path\nMeteor Lake <sprite name=""RightArrow"" tint=1>",,Original,FireTowerSnowSignStart
-line:e9a55c,"<sprite name=""UpArrow"" tint=1> Hawk Peak Trail","<sprite name=""UpArrow"" tint=1> Hawk Peak Trail",,Original,HawkPeakSignStart
+line:16706a,"<sprite name=""UpArrow"" tint=1> Besucherzentrum\n<sprite tint=1 name=""LeftArrow""> Habichtsgipfelpfad","<sprite name=""UpArrow"" tint=1> Visitor Center\n<sprite tint=1 name=""LeftArrow""> Hawk Peak Trail",This is a sign.,Original,VistorCenterCrossroadsStart
+line:81143b,"Sid-Strand <sprite tint=1 name=""RightArrow"">\n<sprite tint=1 name=""DownArrow""> Shirleys Landspitze","Sid Beach <sprite tint=1 name=""RightArrow"">\n<sprite tint=1 name=""DownArrow""> Shirley's Point",,Original,VistorCenterCrossroadsStart
+line:eb7a43,"<sprite name=""UpArrow"" tint=1> Schwarzholzpfad\n<sprite name=""LeftArrow"" tint=1> Habichtsgipfelpfad","<sprite name=""UpArrow"" tint=1> Blackwood Trail\n<sprite name=""LeftArrow"" tint=1> Hawk Peak Trail",,Original,KioskSignStart
+line:1024d7,"<sprite name=""DownArrow"" tint=1> Besucherzentrum\nWeißküstenpfad <sprite name=""RightArrow"" tint=1>","<sprite name=""DownArrow"" tint=1> Visitor Center\nWhite Beach Trail <sprite name=""RightArrow"" tint=1>",,Original,KioskSignStart
+line:4957ee,"<sprite name=""UpArrow"" tint=1> Habichtsgipfelpfad\n<sprite name=""UpArrow"" tint=1> Gutbachweg","<sprite name=""UpArrow"" tint=1> Hawk Peak Trail\n<sprite name=""UpArrow"" tint=1> Good Creek Path",,Original,HawkPeakRiverSignStart
+line:628d3d,"<sprite name=""LeftArrow"" tint=1> Königsgrat\nSchwarzholzpfad <sprite name=""RightArrow"" tint=1>","<sprite name=""LeftArrow"" tint=1> Royal Ridge\nBlackwood Trail <sprite name=""RightArrow"" tint=1>",,Original,HawkPeakRiverSignStart
+line:326ae7,"<sprite name=""UpArrow"" tint=1> Habichtsgipfelpfad\n<sprite name=""UpArrow"" tint=1> Gutbachweg","<sprite name=""UpArrow"" tint=1> Hawk Peak Trail\n<sprite name=""UpArrow"" tint=1> Good Creek Path",,Original,RoyalRidgeSignStart
+line:ede0b0,"<sprite name=""DownArrow"" tint=1> Schwarzholzpfad\n<sprite name=""LeftArrow"" tint=1> Königsgrat","<sprite name=""DownArrow"" tint=1> Blackwood Trail\n<sprite name=""LeftArrow"" tint=1> Royal Ridge",,Original,RoyalRidgeSignStart
+line:b2763c,"<sprite name=""UpArrow"" tint=1> Habichtsgipfelpfad\n<sprite name=""DownArrow"" tint=1> Gutbachweg\nMeteorsee <sprite name=""RightArrow"" tint=1>","<sprite name=""UpArrow"" tint=1> Hawk Peak Trail\n<sprite name=""DownArrow"" tint=1> Good Creek Path\nMeteor Lake <sprite name=""RightArrow"" tint=1>",,Original,FireTowerSnowSignStart
+line:e9a55c,"<sprite name=""UpArrow"" tint=1> Habichtsgipfelpfad","<sprite name=""UpArrow"" tint=1> Hawk Peak Trail",,Original,HawkPeakSignStart
 line:4da2e1,Für diese Wanderung werden mindestens\n<color=yellow>7 goldene Federn</color> benötigt.,At least <color=yellow>7 Golden Feathers</color> are\nrequired to complete this hike.,,Original,HawkPeakSignStart
 line:12ab30,Unerfahrene Wanderer sollten mehr einplanen.,Novice hikers should consider using more.,,Original,HawkPeakSignStart
 line:8368eb,"<sprite tint=1 name=""Warning""> WANDERTIPP <sprite tint=1 name=""Warning"">","<sprite tint=1 name=""Warning""> HIKING TIP <sprite tint=1 name=""Warning"">",,Original,HawkPeakSignStart
 line:4188b8,klettern verbraucht weniger Ausdauer als fliegen!,climbing uses less stamina than flying!,,Original,HawkPeakSignStart
 line:06e25d,zum Klettern gegen eine Wand drücken und {{JumpButton}} halten,"to climb, push against a wall and hold {{JumpButton}}",,Original,HawkPeakSignStart
-line:369fc3,"<sprite name=""LeftArrow"" tint=1> Meteor Lake Overlook <sprite name=""RightArrow"" tint=1>\n<sprite name=""LeftArrow"" tint=1> Hawk Peak Trail\n<sprite name=""DownArrow"" tint=1> Blackwood Trail","<sprite name=""LeftArrow"" tint=1> Meteor Lake Overlook <sprite name=""RightArrow"" tint=1>\n<sprite name=""LeftArrow"" tint=1> Hawk Peak Trail\n<sprite name=""DownArrow"" tint=1> Blackwood Trail",,Original,MeteorLakeSignStart
-line:e9e473,"<sprite name=""LeftArrow"" tint=1> Meteor Lake Overlook <sprite name=""RightArrow"" tint=1>\n<sprite name=""DownArrow"" tint=1> Hawk Peak Trail","<sprite name=""LeftArrow"" tint=1> Meteor Lake Overlook <sprite name=""RightArrow"" tint=1>\n<sprite name=""DownArrow"" tint=1> Hawk Peak Trail",,Original,MeteorLakeLeftSignStart
+line:369fc3,"<sprite name=""LeftArrow"" tint=1> Meteorsee-Aussicht <sprite name=""RightArrow"" tint=1>\n<sprite name=""LeftArrow"" tint=1> Habichtsgipfelpfad\n<sprite name=""DownArrow"" tint=1> Schwarzholzpfad","<sprite name=""LeftArrow"" tint=1> Meteor Lake Overlook <sprite name=""RightArrow"" tint=1>\n<sprite name=""LeftArrow"" tint=1> Hawk Peak Trail\n<sprite name=""DownArrow"" tint=1> Blackwood Trail",,Original,MeteorLakeSignStart
+line:e9e473,"<sprite name=""LeftArrow"" tint=1> Meteorsee-Aussicht <sprite name=""RightArrow"" tint=1>\n<sprite name=""DownArrow"" tint=1> Habichtsgipfelpfad","<sprite name=""LeftArrow"" tint=1> Meteor Lake Overlook <sprite name=""RightArrow"" tint=1>\n<sprite name=""DownArrow"" tint=1> Hawk Peak Trail",,Original,MeteorLakeLeftSignStart
 line:8e47b8,hey Claire!,hey claire!,This is a fox that's walking along the bridges on the east side of the island.,Original,BeachFoxStart
 line:7e2d19,wie läuft dein tag so?,how's the day treatin' ya?,,Original,BeachFoxStart
 line:3b05a7,naja,well,,Player,BeachFoxStart
@@ -326,12 +326,12 @@ line:e1b0be,sagt man das?,do they say that?,,Player,BeachFoxStart
 line:0b1c04,"ehrlich, bin ich nicht sicher","actually, i'm not sure",,Original,BeachFoxStart
 line:40ba46,aber,but,,Original,BeachFoxStart
 line:918947,pech bringt's bestimmt nicht!,it certainly can't be bad luck!,,Original,BeachFoxStart
-line:a8b5f9,Willkommen im Hawk Peak Provincial Park!,Welcome to Hawk Peak Provincial Park!,,Original,VisitorsCenterSignStart
-line:692bdd,Genieße eine malerische Wanderung zum Outlook Point\noder folge dem <color=yellow>Hawk Peak Trail</color> bis zum\nhöchsten Punkt der Provinz!,Enjoy a scenic trek to Outlook Point\nor follow <color=yellow>Hawk Peak Trail</color> up to the\nhighest point in the province!,,Original,VisitorsCenterSignStart
+line:a8b5f9,Willkommen im Habichtsgipfel-Provinzpark!,Welcome to Hawk Peak Provincial Park!,,Original,VisitorsCenterSignStart
+line:692bdd,Genieße eine malerische Wanderung zum Aussichtspunkt\noder folge dem <color=yellow>Habichtsgipfelpfad</color> bis zum\nhöchsten Punkt der Provinz!,Enjoy a scenic trek to Outlook Point\nor follow <color=yellow>Hawk Peak Trail</color> up to the\nhighest point in the province!,,Original,VisitorsCenterSignStart
 line:b1e575,"Obwohl diese Insel für ihren\nnamensgebenden Gipfel bekannt ist,","Although this island is known for\nits titular mountain peak,",,Original,VisitorsCenterSignStart
 line:b107d7,beherbergt sie auch zahlreiche\nwunderschöne Strände und Wälder!,It is also home to a number of\nbeautiful beaches and forests!,,Original,VisitorsCenterSignStart
 line:a83a22,Wusstest du schon?,Did you know?,,Original,VisitorsCenterSignStart
-line:fcd4a8,Das berüchtigte Lokalgericht\n'Erdbeeren und Toast'\nwurde HIER am Hawk Peak erfunden!,The infamous local dish\n'Strawberries and Toast'\nwas invented HERE at Hawk Peak!,,Original,VisitorsCenterSignStart
+line:fcd4a8,Das berüchtigte Lokalgericht\n'Erdbeeren und Toast'\nwurde HIER am Habichtsgipfel erfunden!,The infamous local dish\n'Strawberries and Toast'\nwas invented HERE at Hawk Peak!,,Original,VisitorsCenterSignStart
 line:ad24ec,Komm doch um 17 Uhr vorbei\nund genieße eine leckere Portion\ndieses historischen Gerichts!,Please join us at 5PM to\nenjoy a delicious serving\nof the historical dish!,,Original,VisitorsCenterSignStart
 line:e688e0,uns geht der vorrat aus,we're kinda low on stock,If the player tries to buy merch from the Goat Ranger.,Original,BuyMerchStart
 line:a7cf46,aber das ist eigentlich gut,"but that's good, actually",,Original,BuyMerchStart
@@ -374,11 +374,11 @@ line:75795e,"ich weiß, oder!",i know right!,,Original,HikingUp
 line:dcdf46,die aussicht von oben wird...,the view from the top will be...,,Original,HikingUp
 line:e5ee40,SO,SO,,Original,HikingUp
 line:e3110d,GUT!!,GOOD!!,,Original,HikingUp
-line:74b492,du gehst auch zum <color=red>Hawk Peak</color>!?,you're going to <color=red>Hawk Peak</color> too!?,,Player,HikingUp
+line:74b492,du gehst auch zum <color=red>Habichtsgipfel</color>!?,you're going to <color=red>Hawk Peak</color> too!?,,Player,HikingUp
 line:562b58,"oh, nein","oh, no",,Original,HikingUp
 line:d97d0c,das ist mir zu heftig,that's too intense for me,,Original,HikingUp
 line:f55ea7,...,...,,Player,HikingUp
-line:41bad1,ich geh nur zum Outlook Point,i'm just going to Outlook Point,,Original,HikingUp
+line:41bad1,ich geh nur zum Aussichtspunkt,i'm just going to Outlook Point,,Original,HikingUp
 line:456d6f,sehen wir uns dort?,will i see ya there?,,Original,HikingUp
 line:bef5f5,"ja, wir treffen uns oben!","yeah, i'll meet you at the top!",Dialogue choice.,Player,HikingUp
 line:66d427,"äh, vielleicht","uh, maybe",Dialogue choice.,Player,HikingUp
@@ -388,8 +388,8 @@ line:10254b,"na dann, bis irgendwann!","well, see ya around!",If the player decl
 line:d68d22,ich geh wieder rauf zum turm,i'm heading back up to the tower,If the dog already reached the top and is heading back up.,Original,HikingUp
 line:be5ef3,muss ja irgendwie fit bleiben,i gotta get that exercise in,,Original,HikingUp
 line:ae00f9,man sieht sich!,see ya around!,,Original,HikingUp
-line:4f2346,der Good Creek Path ist echt hübsch,Good Creek Path is really pretty,If the player talks to the dog before they've reached the top.,Original,HikingUp
-line:632631,früher hat er mal\nzum Harbord Ridge abgezweigt,"a long time ago, it used to\nbranch off to Harbord Ridge",,Original,HikingUp
+line:4f2346,der Gutbachweg ist echt hübsch,Good Creek Path is really pretty,If the player talks to the dog before they've reached the top.,Original,HikingUp
+line:632631,früher hat er mal\nzum Harbord-Grat abgezweigt,"a long time ago, it used to\nbranch off to Harbord Ridge",,Original,HikingUp
 line:0f34a2,"aber der weg wurde bei einem\nunwetter beschädigt, und sie haben\ndie schilder abmontiert",but the path was damaged in\na rainstorm and they took\nthe signs down,,Original,HikingUp
 line:55a2ef,was für ein schöner tag!,what a pretty day!,If the player talks to the dog before they've reached the top again.,Original,HikingUp
 line:66b8b5,heyo!,heyo!,If the player talks to the dog first while they're heading down.,Original,HikingDown
@@ -401,11 +401,11 @@ line:4235b1,"ich weiß, oder!",i know right!,,Original,HikingDown
 line:45d8a8,die aussicht von oben war...,the view from the top was...,,Original,HikingDown
 line:0ded11,SO,SO,,Original,HikingDown
 line:ce0874,GUT!!,GOOD!!,,Original,HikingDown
-line:9c2490,du hast es zum <color=red>Hawk Peak</color> geschafft!?,you made it up to <color=red>Hawk Peak</color>!?,,Player,HikingDown
+line:9c2490,du hast es zum <color=red>Habichtsgipfel</color> geschafft!?,you made it up to <color=red>Hawk Peak</color>!?,,Player,HikingDown
 line:e8cea1,"oh, nein","oh, no",,Original,HikingDown
 line:39b4ec,das ist mir zu heftig,that's too intense for me,,Original,HikingDown
 line:4587d1,...,...,,Player,HikingDown
-line:c40345,ich komm grad vom Outlook Point,i've just come from Outlook Point,,Original,HikingDown
+line:c40345,ich komm grad vom Aussichtspunkt,i've just come from Outlook Point,,Original,HikingDown
 line:ebbebf,"ich dreh noch ein paar runden,\num fit zu bleiben",i'm gonna do a few rounds\nto get my exercise in,,Original,HikingDown
 line:5b64a7,"ohne angeberei, aber","not to brag, but",,Original,HikingDown
 line:8a6f60,bin ziemlich schnell,i'm pretty fast,,Original,HikingDown
@@ -438,7 +438,7 @@ line:7764fb,"ja, wär schon hart","yeah, it would tough",,Original,HikingDown
 line:22d165,"na dann, muss weiter wandern!","well, i gotta get my hike on!",,Original,HikingDown
 line:7e0585,man sieht sich!,catch ya later!,,Original,HikingDown
 line:4f2bc3,heyyooo,heyyooo,"If the player talks to the dog heading down, after having missed them at the top.",Original,HikingDown
-line:b15c74,ich war grad oben am Outlook Point,i was just up at Outlook Point,,Original,HikingDown
+line:b15c74,ich war grad oben am Aussichtspunkt,i was just up at Outlook Point,,Original,HikingDown
 line:4c2206,hab dich da aber nicht gesehen,i didn't see ya there though,,Original,HikingDown
 line:eace63,hoppla!,whoops!,,Player,HikingDown
 line:62fa4b,du solltest da echt mal hin,you gotta check it out though,,Original,HikingDown
@@ -475,7 +475,7 @@ line:173358,fühlt sich richtig an.,it just seems right.,,Original,AtTopOfHike
 line:1e9600,Welche Karte soll ich lesen?,Which map should I read?,If the player opens up a treasure map from the menu.,Original,TreasureMapsStart
 line:e51de7,In ihrem Schatten,In Her Shadow,Dialogue choice. This is the title of a poem about treasure in the shadow of the lighthouse.,Player,TreasureMapsStart
 line:9a1ae1,Der Thron des Königs,The King's Throne,Dialogue choice. This is the title of a poem about the treasure at the top of a big rock that looks like a throne.,Player,TreasureMapsStart
-line:5bb1cf,Der Schatz von Sid Beach,The Treasure of Sid Beach,Dialogue choice. This is the title of a poem about the treasure buried at Sid Beach.,Player,TreasureMapsStart
+line:5bb1cf,Der Schatz von Sid-Strand,The Treasure of Sid Beach,Dialogue choice. This is the title of a poem about the treasure buried at Sid Beach.,Player,TreasureMapsStart
 line:d96274,da steht...,it says...,"This is a rhyming riddle that describes a treasure hidden in the shadow of the lighthouse, right at the very tip of the shadow.",Original,TMap2
 line:fdf2d8,Sein Schiff ging unter in den Wellen,His vessel was lost on the water,,Original,TMap2
 line:a3b13c,Doch das Leuchtfeuer konnt' es erhellen,But the beacon found and caught her,,Original,TMap2
@@ -483,11 +483,11 @@ line:99cda9,So vergrub er seine Ware,So he buried his trade,,Original,TMap2
 line:970b49,am äußersten Rand des Schattens,At the end of its shade,,Original,TMap2
 line:6a17f8,sicher für die Tochter des Leuchtturmwärters,To keep safe for the lightkeeper's daughter,,Original,TMap2
 line:185fed,"ich glaub, die hab ich schon gefunden!",i think i've already found this one!,,Player,TMap2
-line:96a1ad,das Visitor Center sieht von\nhier so winzig aus!,the visitor center is\nso tiny from here!,The dog gives a map to the player.,Original,GetMapFromHiker
+line:96a1ad,das besucherzentrum sieht von\nhier so winzig aus!,the visitor center is\nso tiny from here!,The dog gives a map to the player.,Original,GetMapFromHiker
 line:88b430,heh,heh,,Original,GetMapFromHiker
 line:8a6425,"oh, das erinnert mich!","oh, that reminds me!",,Original,GetMapFromHiker
 line:3999a2,"hier, nimm das",take this,,Original,GetMapFromHiker
-line:22f5dc,anscheinend ist irgendein\nschatz am Sid Beach vergraben,apparently there's some sort of\ntreasure buried at Sid Beach,,Original,GetMapFromHiker
+line:22f5dc,anscheinend ist irgendein\nschatz am Sid-Strand vergraben,apparently there's some sort of\ntreasure buried at Sid Beach,,Original,GetMapFromHiker
 line:289fee,"ich konnte nichts finden, vielleicht\nhast du ja mehr glück!","i couldn't find anything, maybe\nyou'll have better luck!",,Original,GetMapFromHiker
 line:6df84f,also,so,If the player talks to Shell Kid after rejecting their inital offer.,Original,OtherKid2
 line:8b23e4,"kommst du ANGEKROCHEN,\num's dir anders zu überlegen?",have you come CRAWLING\nback to reconsider?,,Original,OtherKid2
@@ -513,7 +513,7 @@ line:f3133d,"nö, passt schon",nah i'm ok,Dialogue choice.,Player,ToughBirdStart
 line:db76a0,"heh, cool","heh, cool",If player agrees.,Original,ToughBirdStart
 line:f4eec9,kostet 100 münzen pro feder,it'll be 100 coins per feather,,Original,ToughBirdStart
 line:fea20f,..aber,..but,,Player,ToughBirdStart
-line:8be3b9,das ist mehr als doppelt so\nviel wie im Visitor Center!,that's more than twice as\nmuch as the visitor center!,,Player,ToughBirdStart
+line:8be3b9,das ist mehr als doppelt so\nviel wie im besucherzentrum!,that's more than twice as\nmuch as the visitor center!,,Player,ToughBirdStart
 line:b6d16a,dann kauf deine federn eben da,go buy feathers from them then,,Original,ToughBirdStart
 line:cb8a78,aber,but,Only if the player has bought all the feathers from the visitor center.,Player,ToughBirdStart
 line:71146a,die sind ausverkauft!,they're all sold out!,,Player,ToughBirdStart
@@ -551,11 +551,11 @@ line:ffc758,ich biete einen service!,i provide a service!,,Original,ToughBirdBuy
 line:4773e7,es ist {{Time}},it's {{Time}},If the player checks the watch object in their inventory.,Original,CheckWatch
 line:e9a17a,da steht...,it says...,"If the player reads the treasure map ""The Kings Throne."" This poem rhymes and describes a treasure in the area Royal Ridge that is on top of a bike rock that looks like a throne.",Original,TMap3
 line:687188,Südlich vom steinernen Turm\nÜber die Flussbrücke hinweg,South of the stone tower\nAcross the river bridge,,Original,TMap3
-line:4a4ba8,Ein einsamer Sitz zerfällt dort\nOben auf dem Royal Ridge,A lonely seat sits crumbling\nUpon the Royal Ridge,,Original,TMap3
+line:4a4ba8,Ein einsamer Sitz zerfällt dort\nOben auf dem Königsgrat,A lonely seat sits crumbling\nUpon the Royal Ridge,,Original,TMap3
 line:2315c9,"ich glaub, die hab ich schon gefunden!",i think i've already found this one!,,Player,TMap3
 line:da94ef,da steht...,it says...,If the player reads a treasure map for Sid Beach. This rhymes.,Original,TMap4
 line:554d84,Ich hielt meinen Schatz vor der Welt verborgen\nDoch nie zu weit von der Hand,I hid my treasure from the world\nBut never far from reach,,Original,TMap4
-line:7165cf,Er ruht zwischen den moosigen Steinen\nDie liegen am Sid Beach,It rests between the mossy stones\nThat lie upon Sid Beach,,Original,TMap4
+line:7165cf,Er ruht zwischen den moosigen Steinen\nDie liegen am Sid-Strand,It rests between the mossy stones\nThat lie upon Sid Beach,,Original,TMap4
 line:e74a50,"ich glaub, die hab ich schon gefunden!",i think i've already found this one!,,Player,TMap4
 line:380436,langsam gehen ist gefährlich!,it's dangerous to go slow!,A random jogging rabbit will say this if you talk to them.,Original,RunRabbitStart
 line:919e94,genau deshalb,that's why,,Original,RunRabbitStart
@@ -582,7 +582,7 @@ line:c08238,falls du einen weg nach oben findest,if you manage to find a way up,
 line:b831d9,sagst du mir dann bescheid?,can you let me know?,,Original,IceHikerStart
 line:bc247c,klar!,sure!,,Player,IceHikerStart
 line:932396,ich hol dich dann ab,i'll come back for you,,Player,IceHikerStart
-line:a3773d,heute findet ein marathon\nlauf am Meteor Lake statt!,there's gonna be a marathon\nrace at Meteor Lake today!,This is a random dog hiker in the beginning area of the game.,Original,BeachHikerStart
+line:a3773d,heute findet ein marathon\nlauf am Meteorsee statt!,there's gonna be a marathon\nrace at Meteor Lake today!,This is a random dog hiker in the beginning area of the game.,Original,BeachHikerStart
 line:46507b,die konkurrenz ist dieses jahr hart!,the competition this year is fierce!,,Original,BeachHikerStart
 line:582366,mein neffe läuft beim marathon mit,my nephew is running in the marathon,If the player talks to them again.,Original,BeachHikerStart
 line:a5c85c,er trainiert schon den ganzen morgen,he's been out training all morning,,Original,BeachHikerStart
@@ -607,7 +607,7 @@ line:58caf1,also...,so...,,Original,LowerHikerStart
 line:fd26dc,er konnte nichts davon ausgraben,he wasn't able to dig any of it up,,Original,LowerHikerStart
 line:2fb782,"ok, willst du noch ein gerücht hören",ok so you wanna hear another rumor,If the player talks to them again.,Original,LowerHikerStart
 line:9af4a9,"klar, warum nicht",sure why not,,Player,LowerHikerStart
-line:9a8e19,"also, deborah war neulich\noben am Outlook Point",so deborah was up at\nOutlook Point the other day,,Original,LowerHikerStart
+line:9a8e19,"also, deborah war neulich\noben am Aussichtspunkt",so deborah was up at\nOutlook Point the other day,,Original,LowerHikerStart
 line:f7c5cc,"sie meinte, als sie durchs\nfernglas geschaut hat,","she said, that when she\nlooked through the binoculars",,Original,LowerHikerStart
 line:cbb413,hat sie eine... gesehen,she could see a...,,Original,LowerHikerStart
 line:a4c81c,GEHEIMNISVOLLE INSEL,MYSTERIOUS ISLAND,,Original,LowerHikerStart
@@ -686,7 +686,7 @@ line:3e1f3c,"ich hab's bei JEDEM\nrennen getragen, das ich je gelaufen bin!",i'v
 line:0c18ad,ich...,i...,,Original,RaceRabbitStart
 line:1c4bea,"ich weiß nicht, ob ich ohne\nes laufen könnte",i don't know if i could\nrace without it,,Original,RaceRabbitStart
 line:14481a,wo hast du's verloren?,where'd you lose it?,,Player,RaceRabbitStart
-line:3e80d4,irgendwo im Blackwood Forest,somewhere in Blackwood Forest,,Original,RaceRabbitStart
+line:3e80d4,irgendwo im Schwarzholzwald,somewhere in Blackwood Forest,,Original,RaceRabbitStart
 line:aa27b9,...,...,,Original,RaceRabbitStart
 line:3c03ee,ich glaub...,i think...,,Original,RaceRabbitStart
 line:ddb376,ich könnte für dich danach suchen,i could take a look for you,,Player,RaceRabbitStart
@@ -760,7 +760,7 @@ line:84fda1,ich bin ein bisschen nervös,i'm a little nervous,,Original,RaceTurt
 line:724568,da werden echt viele\ngute läufer sein!,there's gonna be a lot of\nskilled runners there!,,Original,RaceTurtleStart
 line:df4afe,muss flitzen!,gotta go speedy!,If the player talks to the turtle again.,Original,RaceTurtleStart
 line:76aaed,nur ich und mein <color=red>rotes stirnband!</color>,just me and my <color=red>red headband!</color>,,Original,RaceTurtleStart
-line:02fd75,"<sprite name=""LeftArrow"" tint=1> Zurück zur Hawk Peak Island","<sprite name=""LeftArrow"" tint=1> Back To Hawk Peak Island",,Original,ToMainIslandStart
+line:02fd75,"<sprite name=""LeftArrow"" tint=1> Zurück zur Habichtsgipfel-Insel","<sprite name=""LeftArrow"" tint=1> Back To Hawk Peak Island",,Original,ToMainIslandStart
 line:1c0f97,woah,woah,If the player talks to the frog after they've expanded their sandcastle city EVEN MORE.,Player,FrogProvincialElections
 line:b78d1a,"die stadt ist echt\ngewachsen, was?",the city has really\nbeen growing huh?,,Player,FrogProvincialElections
 line:9816e0,"oh, das ist keine sandstadt mehr",oh this isn't a sand city any more,,Original,FrogProvincialElections
@@ -819,11 +819,11 @@ line:cedcc0,du schaffst das!!,you've got this!!,,Player,RabbitWithHeadband
 line:cbbe18,"sorry, ich kann grad nicht quatschen","sorry, i can't chat right now",If the player talks to her again.,Player,RabbitWithHeadband
 line:be4f50,ich muss mich mental und\nkörperlich aufs rennen vorbereiten!,i've gotta prepare mentally and\nphysically for the race!,,Player,RabbitWithHeadband
 line:af92f5,man sieht sich!,see ya around!,,Player,RabbitWithHeadband
-line:f07c9b,"<sprite tint=1 name=""UpArrow""> Hawk Peak Trail","<sprite tint=1 name=""UpArrow""> Hawk Peak Trail",,Original,HawkPeakAltSignStart
+line:f07c9b,"<sprite tint=1 name=""UpArrow""> Habichtsgipfelpfad","<sprite tint=1 name=""UpArrow""> Hawk Peak Trail",,Original,HawkPeakAltSignStart
 line:49d9a1,"<sprite tint=1 name=""Warning""> HINWEIS <sprite tint=1 name=""Warning"">","<sprite tint=1 name=""Warning""> NOTICE <sprite tint=1 name=""Warning"">",,Original,HawkPeakAltSignStart
-line:29e1de,<color=yellow>Hawk Peak Trail</color> ist eine anstrengende wanderung!,<color=yellow>Hawk Peak Trail</color> is a strenuous hike!,,Original,HawkPeakAltSignStart
+line:29e1de,<color=yellow>Habichtsgipfelpfad</color> ist eine anstrengende wanderung!,<color=yellow>Hawk Peak Trail</color> is a strenuous hike!,,Original,HawkPeakAltSignStart
 line:48c18d,"Du brauchst eventuell <color=yellow>goldene\nfedern</color>, um sie zu schaffen.",You might need <color=yellow>golden\nfeathers</color> to complete it.,,Original,HawkPeakAltSignStart
-line:fa84c0,<color=yellow>Goldene Federn</color> sind im\n<color=yellow>Visitor Center</color> erhältlich.,<color=yellow>Golden feathers</color> are for sale\nat the <color=yellow>visitor center.</color>,,Original,HawkPeakAltSignStart
+line:fa84c0,<color=yellow>Goldene Federn</color> sind im\n<color=yellow>Besucherzentrum</color> erhältlich.,<color=yellow>Golden feathers</color> are for sale\nat the <color=yellow>visitor center.</color>,,Original,HawkPeakAltSignStart
 line:7388e5,"geschwindigkeit ist mein name,\nrennen ist mein spiel!",speed's my name and\nracing is my game!,If you talk to the turtle after all the headband quest stuff has been exhausted.,Original,RaceTurtleAfter
 line:23d25d,eigentlich heiß ich Taylor,actually my name is Taylor,,Original,RaceTurtleAfter
 line:201ebc,aber ja,but yeah,,Original,RaceTurtleAfter
@@ -880,7 +880,7 @@ line:b2cecd,nimm diese laufschuhe,take these running shoes,,Original,GiveRabbitH
 line:d25506,"du kannst <color=red>{{RunButton}}</color> gedrückt halten, um damit zu rennen!",you can hold <color=red>{{RunButton}}</color> to run with them!,,Original,GiveRabbitHeadband
 line:7e631b,allerdings,however,,Original,GiveRabbitHeadband
 line:0ce32d,"denk dran, dass rennen\n<color=red>goldene Federn</color> braucht",just keep in mind that running\nrequires <color=red>golden feathers</color>,,Original,GiveRabbitHeadband
-line:489295,"<sprite tint=1 name=""UpArrow""> Outlook Point","<sprite tint=1 name=""UpArrow""> Outlook Point",,Original,OutlookPointSignStart
+line:489295,"<sprite tint=1 name=""UpArrow""> Aussichtspunkt","<sprite tint=1 name=""UpArrow""> Outlook Point",,Original,OutlookPointSignStart
 line:32213c,immer noch keine erdbeeren?,still out of strawberries?,"If the player talks to the Ranger Goat at 5PM, after discovering they're out of strawberries.",Player,Strawberries
 line:2edee7,jup,yup,,Original,Strawberries
 line:90688d,hab von den erdbeeren gehört,so i heard about the strawberries,If the player talks to the Ranger Goat at 5PM.,Player,Strawberries
@@ -986,7 +986,7 @@ line:a8b951,...,...,,Player,Cellphone3
 line:7f98d9,naja,anyway,,CutsceneCellphone,Cellphone3
 line:3e93b6,wie geht's dir?,how have you been?,,CutsceneCellphone,Cellphone3
 line:a0dcaa,also,well,,Player,Cellphone3
-line:c94b31,ich bin grad oben auf dem Hawk Peak!,i'm at the top of Hawk Peak right now!,,Player,Cellphone3
+line:c94b31,ich bin grad oben auf dem Habichtsgipfel!,i'm at the top of Hawk Peak right now!,,Player,Cellphone3
 line:a63e6e,ooh!,ooh!,,CutsceneCellphone,Cellphone3
 line:2237e8,wow,wow,,CutsceneCellphone,Cellphone3
 line:6eb468,ich liebe es da oben,i love it up there,,CutsceneCellphone,Cellphone3
@@ -1013,7 +1013,7 @@ line:e25ebd,Mama,mom,,Player,Cellphone3
 line:6a17a6,ich hab dich auch lieb,i love you too,,CutsceneCellphone,Cellphone3
 line:2e7f4d,warte,wait,,Player,Cellphone4
 line:545678,irgendwas passiert gerade?!,something's happening?!,,Player,Cellphone4
-line:9a8ed9,war das der berühmte Hawk Peak-Aufwind!?,was that the famous Hawk Peak updraft!?,,CutsceneCellphone,Cellphone4
+line:9a8ed9,war das der berühmte Habichtsgipfel-Aufwind!?,was that the famous Hawk Peak updraft!?,,CutsceneCellphone,Cellphone4
 line:2a159c,äh,uh,,Player,Cellphone4
 line:9fcd15,sieht so aus,looks like it,,Player,Cellphone4
 line:9ef186,du solltest jetzt darauf mitfliegen!,you should catch a ride on it now!,,CutsceneCellphone,Cellphone4
@@ -1086,7 +1086,7 @@ line:1099bb,aber du wirkst ein\nbisschen unvorbereitet,but you seem a\nlittle un
 line:817652,"hier oben ist es ganz schön kalt für\nleute, die es nicht gewohnt sind",it's mighty cold up here for\nfolks who aren't accustomed,,Original,PolarBearStart
 line:2136cc,"ich hätte nicht gedacht, dass es so kalt wird!",i didn't expect it to get this cold!,,Player,PolarBearStart
 line:eb8b41,meine federn frieren ein,my feathers are freezing up,,Player,PolarBearStart
-line:e544b0,Hawk Peak ist einzigartig in der\nprovinz wegen seiner geothermischen aktivität,Hawk Peak is unique in the\nprovince for geothermal activity,,Original,PolarBearStart
+line:e544b0,Habichtsgipfel ist einzigartig in der\nprovinz wegen seiner geothermischen aktivität,Hawk Peak is unique in the\nprovince for geothermal activity,,Original,PolarBearStart
 line:0c4c62,"wenn dir zu kalt wird, halt\nan einer der heißen quellen","if you get too chilly, stop\nat one of the hotsprings",,Original,PolarBearStart
 line:00e22d,das sollte dir deine\nkraft zurückgeben!,that should give you\nback your strength!,,Original,PolarBearStart
 line:53a164,danke für den tipp!,thanks for the tip!,This dialogue only plays if you don't have enough feathers at this point.,Player,PolarBearStart
@@ -1152,7 +1152,7 @@ line:41e6b6,danke,thanks,,Original,Runner4Start
 line:5cafa7,ugh...,ugh...,,Original,Runner4Start
 line:771cf2,ich hasse beintage,i hate leg days,,Original,Runner4Start
 line:21cf22,"Die Helianthus Dissultantis ""Gummiblume""","The Helianthus Dissultantis ""Rubber Flower""",This is a sign that describes how the flower + bucket mechanic works. Written in the style of an informational board at a park.,Original,BucketSignStart
-line:ac8167,Die offizielle Blume des Hawk Peak Provincial Parks,Hawk Peak Provincial Park's Official Flower,,Original,BucketSignStart
+line:ac8167,Die offizielle Blume des Habichtsgipfel-Provinzparks,Hawk Peak Provincial Park's Official Flower,,Original,BucketSignStart
 line:e36269,Diese einzigartige Art <color=yellow>blüht sofort</color>\nbei plötzlicher Überflutung und bläht sich\nauf wie ein Wasserballon!,"This unique species <color=yellow>blooms instantly</color>\nin flash flooding conditions, inflating\nlike a water balloon!",,Original,BucketSignStart
 line:ec2521,Erlebe es selbst mit einem der\ngemeinschaftlichen <color=yellow>Wassereimer</color> des Parks!,Experience it for yourself with one of\nthe park's communal <color=yellow>water buckets!</color>,,Original,BucketSignStart
 line:da1b6e,<color=#e3967f>*Alle Eimer sind Eigentum des Parks.</color>,<color=#e3967f>*All buckets are property of the park.</color>,,Original,BucketSignStart
@@ -1168,14 +1168,14 @@ line:cee433,was ist MEIN ding?,what's MY deal?,"If you ask Tough Bird - ""What's
 line:6cdec4,HMPH!,HMPH!,,Original,ToughBirdWhatDeal
 line:20b440,was ist DEIN ding!?,what's YOUR deal!?,,Original,ToughBirdWhatDeal
 line:5cd3d2,na ja...,well...,,Player,ToughBirdWhatDeal
-line:3a5721,ich wander zum Hawk Peak hoch,i'm hiking up to hawk peak,,Player,ToughBirdWhatDeal
+line:3a5721,ich wander zum habichtsgipfel hoch,i'm hiking up to hawk peak,,Player,ToughBirdWhatDeal
 line:763c29,wow,wow,,Original,ToughBirdWhatDeal
 line:ca2ad4,klingt ziemlich basic,sounds kinda basic,"""Basic"" is a not too offensive insult, that implies someone is uninteresting / too mainstream.",Original,ToughBirdWhatDeal
 line:c72c5f,hey!,hey!,,Player,ToughBirdWhatDeal
 line:a73677,ich sag ja nur,i'm just saying,,Original,ToughBirdWhatDeal
 line:15eb7a,touristen kommen von überall her,tourists come from all over,,Original,ToughBirdWhatDeal
 line:d047c2,die sagen dann so,they're like,,Original,ToughBirdWhatDeal
-line:87fc49,"""ich waaander zum hawwk peeeak hoch""","""i'm goonnaa hike to hawwk peaak""",,Original,ToughBirdWhatDeal
+line:87fc49,"""ich waaander zum habichtsgipfeeel hoch""","""i'm goonnaa hike to hawwk peaak""",,Original,ToughBirdWhatDeal
 line:dc79a1,dann sind sie oben,then they get up there,,Original,ToughBirdWhatDeal
 line:df37dd,"und merken, dass es echt\nanstrengung braucht",and see that it actually\ntakes real effort,,Original,ToughBirdWhatDeal
 line:65f61c,und geben dann auf,and then they give up,,Original,ToughBirdWhatDeal
@@ -1260,7 +1260,7 @@ line:4bd63e,"hey, wieder da!",hey again!,"They say ""hey again"" only if you've 
 line:dc151d,hey du!,hey there!,,Original,RhinoStart
 line:036988,was hast du heute vor?,what are you up to today?,,Original,RhinoStart
 line:978863,äh,uh,,Player,RhinoStart
-line:8f879a,ich wander zum Hawk Peak hoch,i'm hiking up to Hawk Peak,,Player,RhinoStart
+line:8f879a,ich wander zum Habichtsgipfel hoch,i'm hiking up to Hawk Peak,,Player,RhinoStart
 line:af7466,das ist ne harte wanderung!,that's a tough hike!,,Original,RhinoStart
 line:2d5d1b,weißt du,you know,,Original,RhinoStart
 line:73be56,"du musst <color=red>klettern</color> lernen,\num nach ganz oben zu kommen!",you'll need to learn to <color=red>rock climb</color>\nto make it to the top!,,Original,RhinoStart
@@ -1314,7 +1314,7 @@ line:7ba1fd,super!,great!,,Original,RhinoInClub
 line:668b67,"oh, noch nicht","oh, not yet",If you don't have one.,Player,RhinoInClub
 line:9703a6,ah,ah,,Original,RhinoInClub
 line:2b1f0e,ohne die kannst du nicht klettern,you can't climb without one,,Original,RhinoInClub
-line:03ff54,aber du kannst sie im <color=red>Visitor Center</color> kaufen,but you can buy them at the <color=red>visitor center</color>,,Original,RhinoInClub
+line:03ff54,aber du kannst sie im <color=red>Besucherzentrum</color> kaufen,but you can buy them at the <color=red>visitor center</color>,,Original,RhinoInClub
 line:1ae06c,die sollten ziemlich günstig sein,they should be pretty cheap,,Original,RhinoInClub
 line:b884a1,"komm zurück, wenn du eine gekauft hast!",come back when you've bought one!,,Original,RhinoInClub
 line:cd696e,"also, für den anfang","so, to get started",If you do have a feather...,Original,RhinoTut
@@ -1337,7 +1337,7 @@ line:2db8d4,"aber deine <color=red>ausdauer hält länger</color>,\nwenn du stat
 line:3963cb,einfach mal so im hinterkopf behalten,just something to keep in mind,,Original,ClimbWall2Start
 line:9d5f6b,cool,cool,,Player,ClimbWall2Start
 line:de1b34,was kommt jetzt?,so what's next?,,Player,ClimbWall2Start
-line:10be3d,ZUM Hawk Peak!,TO HAWK PEAK!,,ClimbSquirrel,ClimbWall2Start
+line:10be3d,ZUM HABICHTSGIPFEL!,TO HAWK PEAK!,,ClimbSquirrel,ClimbWall2Start
 line:7a4c15,oh ok,oh ok,,Player,ClimbWall2Start
 line:862787,ich muss mich noch selbst aufwärmen,i still need to warm up myself,,Original,ClimbWall2Start
 line:7c9442,aber man sieht sich oben?,but i'll see ya up there?,,Original,ClimbWall2Start
@@ -1383,7 +1383,7 @@ line:b8855d,sobald du die kurze wand drauf hast,once you master the short wall,,
 line:732b78,"falls du probleme mit der\ngroßen wand hast,","if you're having trouble\nwith the big wall,",,Player,SquirrelStart
 line:a36443,schau einfach meine technik an,just watch my technique,,Player,SquirrelStart
 line:882439,die ist super verfeinert durch\nJAHRE des kletterns,it's highly refined from\nYEARS of climbing,,Player,SquirrelStart
-line:2fe8f3,dann sehen wir uns wohl\nam Hawk Peak,i guess i'll see\nyou at Hawk Peak,,Player,SquirrelStart
+line:2fe8f3,dann sehen wir uns wohl\nam Habichtsgipfel,i guess i'll see\nyou at Hawk Peak,,Player,SquirrelStart
 line:19fd90,wohl schon!,i guess so!,,Player,SquirrelStart
 line:e14dc0,ich mach dir nichts vor,i'm not gonna lie,,Original,SquirrelStart
 line:e4ccc6,das wird eine harte kletterei,it'll be a tough climb,,Original,SquirrelStart
@@ -1392,7 +1392,7 @@ line:67aad7,was?,what?,,Original,SquirrelStart
 line:f0fea7,immer nur klettern klettern,climb climb all the time,,Player,SquirrelStart
 line:8291ec,heh,heh,,Original,SquirrelStart
 line:0bf099,wohl schon,i guess so,,Original,SquirrelStart
-line:4a8b2b,"<sprite name=""LeftArrow"" tint=1> Zurück zur Hawk Peak Island","<sprite name=""LeftArrow"" tint=1> Back To Hawk Peak Island",,Original,ToSecretIslandStart
+line:4a8b2b,"<sprite name=""LeftArrow"" tint=1> Zurück zur Habichtsgipfel-Insel","<sprite name=""LeftArrow"" tint=1> Back To Hawk Peak Island",,Original,ToSecretIslandStart
 line:14872b,oh hey!,oh hey!,When you meet the climbers again later in the game.,Original,RhinoClimbStart
 line:2434ce,äh,uh,,Original,RhinoClimbStart
 line:6308ee,"sieht so aus, als hättest du das\nklettern echt drauf!",it seems like you've really\ngotten the hang of climbing!,,Original,RhinoClimbStart
@@ -1456,7 +1456,7 @@ line:cc88da,ah,ah,,Player,Artist1Start
 line:887a86,ich glaub ich seh's jetzt,i think i can see it now,,Player,Artist1Start
 line:e89e72,ist noch work in progress!,it's still a work-in-progress!,,Original,Artist1Start
 line:ccf33e,aber ich weiß nicht ob mir\ngefällt wohin das führt,but i don't know if i\nlike where it's going,,Original,Artist1Start
-line:a1cc69,ich glaub ich geh bald\nrüber zum Blackwood Forest Lighthouse,i think i'm gonna head over to the\nblackwood forest lighthouse soon,,Original,Artist1Start
+line:a1cc69,ich glaub ich geh bald\nrüber zum schwarzholzwald-leuchtturm,i think i'm gonna head over to the\nblackwood forest lighthouse soon,,Original,Artist1Start
 line:1d8901,ich bin immer noch...,i'm still...,,Original,Artist1Start
 line:992933,...auf der suche nach\nder richtigen inspiration,...trying to find the\nright inspiration,,Original,Artist1Start
 line:7fc822,so,so,If you talk to them again.,Player,Artist1Start
@@ -1548,7 +1548,7 @@ line:5814d8,also ist es definitiv möglich,so it's definitely possible,,Original
 line:4da0e0,*seufz*,*sigh*,,Original,Artist4Start
 line:7f43e9,aber du hast recht,but you're right,,Original,Artist4Start
 line:f6ab71,hier zu malen bringt eh nichts,trying to paint here is useless,,Original,Artist4Start
-line:879ba1,vielleicht hab ich am\nOutlook Point mehr glück,maybe i'd have better\nluck at outlook point,,Original,Artist4Start
+line:879ba1,vielleicht hab ich am\naussichtspunkt mehr glück,maybe i'd have better\nluck at outlook point,,Original,Artist4Start
 line:26c376,warum machst du nicht mal pause?,why don't you take a break?,If you talk to them again.,Player,Artist4Start
 line:0ef726,du hast heute schon so viel geschafft,you've already done so much today,,Player,Artist4Start
 line:f4a611,kann ich nicht,i can't,,Original,Artist4Start
@@ -1561,7 +1561,7 @@ line:ce64ef,ich liebe es!!!,i love it!!!,,Player,Artist5Start
 line:0a2bad,oh hey,oh hey,,Original,Artist5Start
 line:5a5c63,ich mag's auch aber,i like it too but,,Original,Artist5Start
 line:367187,ich kann das nicht gebrauchen...,i can't use this...,,Original,Artist5Start
-line:341304,der Outlook Point wurde\nzu tode gemalt,outlook point has been\npainted to death,,Original,Artist5Start
+line:341304,der aussichtspunkt wurde\nzu tode gemalt,outlook point has been\npainted to death,,Original,Artist5Start
 line:17efbd,ach ja?,has it?,,Player,Artist5Start
 line:720fa5,du hast so einen coolen stil,you've got such a cool style,,Player,Artist5Start
 line:4cea8f,danke aber,thanks but,,Original,Artist5Start
@@ -2058,9 +2058,9 @@ line:422cc9,ich bin noch bei dem alten gebäude!,i'm still at that old building!
 line:c210da,ich bin noch oben auf dem berg!,i'm still at the top of the mountain!,,Original,WalkieNotRacing
 line:80c82b,ähm...,um...,,Original,WalkieNotRacing
 line:35662f,ich weiß nicht!,i don't know!,,Original,WalkieNotRacing
-line:9063e5,ich chill grad am Royal Ridge!,i'm hanging out at the royal ridge!,,Original,WalkieNotRacing
+line:9063e5,ich chill grad am königsgrat!,i'm hanging out at the royal ridge!,,Original,WalkieNotRacing
 line:c8f6dd,ich bin beim friedhof!,i'm around the graveyard!,,Original,WalkieNotRacing
-line:c37eaf,ich bin nahe beim Visitor Center!,i'm near the visitor center!,,Original,WalkieNotRacing
+line:c37eaf,ich bin nahe beim besucherzentrum!,i'm near the visitor center!,,Original,WalkieNotRacing
 line:b3b718,ähh...,uhh...,,Original,WalkieNotRacing
 line:f6baec,ich weiß nicht!,i don't know!,,Original,WalkieNotRacing
 line:0f245f,hallo?,hello?,If noone picks up.,Original,WalkieNobody
@@ -2228,7 +2228,7 @@ line:34830c,hat mich mal gebissen!,bit me once!,,Original,BuyFishQuip
 line:5182f6,aber ich such immer noch danach!,but i'm still looking for it!,,Original,BuyFishQuip
 line:a781ea,ich geb dir {{FishPrice}} münzen,i'll give you {{FishPrice}} coin,,Original,BuyFishQuip
 line:b000f2,"ah, {{FishName}}",ah the {{FishName}},,Original,BuyFishQuip
-line:94362f,der hier ist beliebt hier am Hawk Peak,this one is popular here at hawk peak,,Original,BuyFishQuip
+line:94362f,der hier ist beliebt hier am habichtsgipfel,this one is popular here at hawk peak,,Original,BuyFishQuip
 line:3f17f4,ich geb dir...,i'll give you...,,Original,BuyFishQuip
 line:be6b8e,...{{FishPrice}} münzen dafür,...{{FishPrice}} coins for it,,Original,BuyFishQuip
 line:b983f1,{{FishName}},the {{FishName}},,Original,BuyFishQuip
@@ -2276,7 +2276,7 @@ line:9a2691,{{FishName}}!?,the {{FishName}}!?,The next quip begins here,Original
 line:e8eb1e,das ist ja ein spektakulärer fund!,now that's a spectacular find!,,Original,BuyRareFishQuip
 line:57e063,ich geb dir {{FishPrice}} dafür!,i'll give you {{FishPrice}} for it!,,Original,BuyRareFishQuip
 line:231720,WA-WAS!?,WHA-WHAT!?,,Original,BuyRareFishQuip
-line:cfe338,ich hab LEGENDEN über\n{{FishName}} am Hawk Peak gehört,i've heard LEGENDS of the\n{{FishName}} at hawk peak,,Original,BuyRareFishQuip
+line:cfe338,ich hab LEGENDEN über\n{{FishName}} am habichtsgipfel gehört,i've heard LEGENDS of the\n{{FishName}} at hawk peak,,Original,BuyRareFishQuip
 line:19bd98,aber hier ist er...,but here it is...,,Original,BuyRareFishQuip
 line:ba2d62,...direkt vor MEINEN EIGENEN AUGEN!!,...in front of MY VERY OWN EYES!!,,Original,BuyRareFishQuip
 line:ca47a0,Claire,claire,,Original,BuyRareFishQuip
@@ -2506,7 +2506,7 @@ line:3983bc,"ich kann mit der Jugend von heute
 nicht mehr mithalten",i can't keep up with\nthe youth these days,,Original,AuntDynamic
 line:c90080,{{Transition}},{{Transition}},,Player,AuntDynamic
 line:4ba184,ich bin zu einer geheimnisvollen Insel rausgeschwommen!,i swam out to a mysterious island!,If you visit the secret island.,Player,AuntDynamic
-line:bdf471,du meinst Pat's Point?,you mean pat's point?,,Original,AuntDynamic
+line:bdf471,du meinst Pats Landspitze?,you mean pat's point?,,Original,AuntDynamic
 line:9d3c6f,heißt die so?,is that it's name?,,Player,AuntDynamic
 line:1881c5,das klingt dann,that makes it sound like,,Player,AuntDynamic
 line:c58a48,gleich viel weniger geheimnisvoll,way less mysterious,,Player,AuntDynamic
@@ -2534,11 +2534,11 @@ line:923cea,{{Transition}},{{Transition}},,Player,AuntDynamic
 line:62c03b,ich hab heute einen Künstler getroffen!,i met an artist today!,If you did the Artist Quest.,Player,AuntDynamic
 line:fc6c10,er hat hier Landschaften gemalt,they were painting landscapes here,,Player,AuntDynamic
 line:375b88,seine Kunst war unglaublich,their art was amazing,,Player,AuntDynamic
-line:cb77e8,"na, der Hawk Peak ist ja wunderschön",well hawk peak is beautiful,,Original,AuntDynamic
+line:cb77e8,"na, der Habichtsgipfel ist ja wunderschön",well hawk peak is beautiful,,Original,AuntDynamic
 line:d39337,da bin ich nicht überrascht!,so i'm not surprised!,,Original,AuntDynamic
 line:1bcea0,{{Transition}},{{Transition}},,Player,AuntDynamic
-line:91ce9c,ich hab am Outlook Point einen Freund gefunden!,i made a friend at outlook point!,If you got the secret map from meeting the Dog at outlook point.,Player,AuntDynamic
-line:249ef2,der firetower ist richtig cool,the firetower is really cool,,Player,AuntDynamic
+line:91ce9c,ich hab am Aussichtspunkt einen Freund gefunden!,i made a friend at outlook point!,If you got the secret map from meeting the Dog at outlook point.,Player,AuntDynamic
+line:249ef2,der Feuerwachturm ist richtig cool,the firetower is really cool,,Player,AuntDynamic
 line:87cd22,ja!,yeah!,,Original,AuntDynamic
 line:68d4d8,"das ist ein toller Ort,
 um den Sonnenuntergang zu sehen",it's a great place\nto watch the sunset,,Original,AuntDynamic
@@ -2695,7 +2695,7 @@ line:cf7683,"DAS HILFT MIR NICHT WEITER, CLAIRE!",THIS AIN'T HELPING CLAIRE!,If 
 line:927794,OOHH,OOHH,The climbers talk about their journey.,SitSquirrel,ClimbersRestTalk
 line:e477d3,WEISST DU,YOU KNOW,,SitSquirrel,ClimbersRestTalk
 line:2bbcba,ZIEMLICH GUT,PRETTY GOOD,,SitSquirrel,ClimbersRestTalk
-line:c045d4,ICH HAB GERADE DEN Hawk Peak BEZWUNGEN,I JUST CONQUERED HAWK PEAK,,SitSquirrel,ClimbersRestTalk
+line:c045d4,ICH HAB GERADE DEN HABICHTSGIPFEL BEZWUNGEN,I JUST CONQUERED HAWK PEAK,,SitSquirrel,ClimbersRestTalk
 line:1987df,SO,LIKE,,SitSquirrel,ClimbersRestTalk
 line:b2bac3,KEIN GROSSES DING,NO BIG DEAL,,SitSquirrel,ClimbersRestTalk
 line:bf0f1f,nice!,nice!,,Player,ClimbersRestTalk
@@ -2706,11 +2706,11 @@ line:37739f,FAST BEZWUNGEN,ALMOST CONQUERED IT,,SitSquirrel,ClimbersRestTalk
 line:4f2bd5,"WIR SIND JA SO GUT WIE OBEN, ODER?",WE'RE BASICALLY THERE RIGHT?,,SitSquirrel,ClimbersRestTalk
 line:d42384,"na ja, technisch gesehen",well technically,,SitBear,ClimbersRestTalk
 line:d45f04,"dieser ganze Bereich hier
-zählt schon als Hawk Peak",this whole area is\nconsidered hawk peak,,SitBear,ClimbersRestTalk
+zählt schon als Habichtsgipfel",this whole area is\nconsidered hawk peak,,SitBear,ClimbersRestTalk
 line:110e5e,SIEHST DU?,SEE?,,SitSquirrel,ClimbersRestTalk
 line:b9890f,GESCHAFFT,NAILED IT,,SitSquirrel,ClimbersRestTalk
 line:f8688d,"wir schaffen's zum
-höchsten Punkt vom Hawk Peak ein andermal",we're gonna make it to\nhawk peak's peak another day,,SitRhino,ClimbersRestTalk
+höchsten Punkt vom Habichtsgipfel ein andermal",we're gonna make it to\nhawk peak's peak another day,,SitRhino,ClimbersRestTalk
 line:65e85b,"ich glaub, wir sind an unserer Grenze",i think we're at our limit,,SitRhino,ClimbersRestTalk
 line:e05da1,"man sollte sich nicht zu sehr
 überanstrengen, oder?","it's better not to push\nyourself too hard, right?",,SitRhino,ClimbersRestTalk
@@ -3239,7 +3239,7 @@ ruhige Flusswasser.","Known to prefer
 calm river waters.",,,
 FYellowPerchFish,Gelbbarsch,Yellow Perch,,,
 FIYellowPerchFish,"Meist in krautigen
-Gewässern im Meteor Lake zu sehen.","Usually seen in weedy
+Gewässern im Meteorsee zu sehen.","Usually seen in weedy
 waters in Meteor Lake.",,,
 AAllFeathers,Federn für immer,Feathers Forever,Achievement Name,,
 ADAllFeathers,Finde jede Feder.,Find every feather.,"Achievement Description
@@ -3254,7 +3254,7 @@ ABeachstickballChamp,Diesen Tag nie vergessen,Remember This Day Forever,,,
 ADBeachstickballChamp,Hol dir den Erinnerungshut.,Get the commemorative hat.,,,
 AFinishedGame,Das Ende,The End,,,
 ADFinishedGame,Mach ein schönes langes Nickerchen.,Take a nice long nap.,,,
-AReachedSummit,Hawk Peak,Hawk Peak,,,
+AReachedSummit,Habichtsgipfel,Hawk Peak,,,
 ADReachedSummit,Erreiche den Gipfel des Berges.,Reach the top of the mountain.,,,
 ATenFeathers,Federfinder,Feather Finder,,,
 ADTenFeathers,Sammle 10 goldene Federn.,Collect 10 golden feathers.,,,
@@ -4105,9 +4105,9 @@ line:aa1033,"ich hab gehört, sie sind beim\nfünften Mal sogar noch besser!",i 
 line:8af30b,es ist gut,it's good,,Original,WhatchaReadingActualText
 line:56f562,du liest schnell,you read fast,,Player,WhatchaReadingActualText
 line:f3f875,und ob,i sure do,,Original,WhatchaReadingActualText
-line:2eab83,"<sprite name=""DownArrow"" tint=1> Die Orange Islands","<sprite name=""DownArrow"" tint=1> The Orange Islands",,Original,OrangeIslandsSign
-line:96eaae,Willkommen auf den Orange Islands!,Welcome to the Orange Islands!,,Original,OrangeIslandsInfoStart
-line:ad91c8,Trotz des Lebens im Schatten des Hawk Peaks\nhat sich diese kleine Inselgruppe\nihren ganz eigenen Ruf erarbeitet!,"Despite living in the shadow of Hawk Peak,\nthis small cluster of islands has garnered\na unique reputation of its own!",,Original,OrangeIslandsInfoStart
+line:2eab83,"<sprite name=""DownArrow"" tint=1> Die Orangeninseln","<sprite name=""DownArrow"" tint=1> The Orange Islands",,Original,OrangeIslandsSign
+line:96eaae,Willkommen auf den Orangeninseln!,Welcome to the Orange Islands!,,Original,OrangeIslandsInfoStart
+line:ad91c8,Trotz des Lebens im Schatten des Habichtsgipfels\nhat sich diese kleine Inselgruppe\nihren ganz eigenen Ruf erarbeitet!,"Despite living in the shadow of Hawk Peak,\nthis small cluster of islands has garnered\na unique reputation of its own!",,Original,OrangeIslandsInfoStart
 line:bb9b11,"Kannst DU erraten, wie\ndiese Inseln zu ihrem Namen kamen?",Are YOU able to guess how\nthese islands got their name?,,Original,OrangeIslandsInfoStart
 line:f38701,"ist doch klar, wegen der Farbe vom Gestein","it's the color of the rock, obviously",Dialogue choice.,Player,OrangeIslandsInfoStart
 line:0dc4d3,"das ist nur'n Schild, ich lese einfach weiter",this is a sign and i'm just going to keep reading,Dialogue choice.,Player,OrangeIslandsInfoStart

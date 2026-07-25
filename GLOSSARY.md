@@ -5,7 +5,7 @@ Running reference for translating `LANG_German.yarn_lines.csv`. Read this before
 ## Conventions (see CONTEXT.md and docs/adr/ for full rationale)
 
 - Uniform **"du"** address form for every character, no exceptions (ADR-0001).
-- Translate proper nouns (place names, item names) into German (ADR-0002).
+- Translate item/fish names into German (ADR-0002); **place names stay in exact English, everywhere** (ADR-0003 supersedes ADR-0002 for place names only — see "Place names" section below).
 - Preserve each `Speaker`'s typographic voice (ALL CAPS bursts, stacked `!!`, ellipses, lowercase-only) — translate the words, keep the punctuation/casing pattern.
 - Sentence-initial words stay lowercase to match the source's casual all-lowercase style — but German nouns are ALWAYS capitalized regardless of sentence position (that's German orthography, not a style choice).
 - **DECIDED**: character/person names (Claire, Avery, Jim, Julie, Tim, etc.) must ALWAYS be capitalized, even though the source keeps them lowercase for stylistic reasons and even mid-sentence. This is stricter than the common-noun rule — German proper names have zero stylistic lowercase exception. Batches 1-9 translated names lowercase before this was decided; a global cleanup pass will fix those at the end. Batches from 10 onward: always capitalize names from the start.
@@ -17,28 +17,32 @@ Running reference for translating `LANG_German.yarn_lines.csv`. Read this before
 
 ## Place names
 
-- White Coast Trail → **Weißküstenpfad**
-- Rangers Cabin → **Rangerhütte**
-- Hawk Peak → **Habichtsgipfel** (the park/mountain's name — expect "Hawk Peak Provincial Park" etc. to compose from this)
-- Hawk Peak Trail → **Habichtsgipfelpfad**
-- Meteor Lake → **Meteorsee**
-- Meteor Lake Overlook → **Meteorsee-Aussicht**
-- Visitor Center → **Besucherzentrum**
-- Sid Beach → **Sid-Strand**
-- Shirley's Point → **Shirleys Landspitze**
-- Blackwood Trail → **Schwarzholzpfad** (deliberately NOT "Schwarzwaldpfad" — avoids colliding with the real-world Schwarzwald/Black Forest region)
-- Royal Ridge → **Königsgrat**
-- Good Creek Path → **Gutbachweg**
-- RESOLVED: "White Beach Trail" (line:665732, line:1024d7) was a source-text inconsistency for the same trail as "White Coast Trail" — unified to **Weißküstenpfad** everywhere (confirmed by human review; the WhiteCoastSign StoryNode name and 3-to-2 majority both pointed to White Coast Trail being canonical).
-- Hawk Peak Provincial Park → **Habichtsgipfel-Provinzpark** (composes Hawk Peak → Habichtsgipfel with "Provinzpark", per existing entry above)
-- Outlook Point → **Aussichtspunkt** (a named location — the destination of the shorter hike up the west side of the mountain, distinct from Hawk Peak itself)
-- Harbord Ridge → **Harbord-Grat** (kept "Harbord" as an untranslated proper name — mirrors the Shirley's Point → "Shirleys Landspitze" pattern of keeping a personal/place name as-is and only translating the geographic-feature word)
-- Pat's Point (`AuntDynamic`, Aunt May naming the "mysterious island" Claire swam to) → **Pats Landspitze** — same pattern as Shirley's Point → Shirleys Landspitze (personal name kept as-is, geographic-feature word translated, no apostrophe-s per German genitive convention)
-- "firetower" (`AuntDynamic`, at Outlook Point) → **Feuerwachturm**
-- Blackwood Forest → **Schwarzholzwald** (composes with the existing Blackwood Trail → Schwarzholzpfad entry; same deliberate avoidance of "Schwarzwald")
-- Hawk Peak Island → **Habichtsgipfel-Insel** (composes Hawk Peak → Habichtsgipfel with "Insel", same pattern as Hawk Peak Provincial Park)
-- Blackwood Forest Lighthouse (`Artist1Start`, "blackwood forest lighthouse") → **Schwarzholzwald-Leuchtturm** (composes existing Blackwood Forest → Schwarzholzwald with "Leuchtturm")
-- Orange Islands (`OrangeIslandsSign`/`OrangeIslandsInfoStart`, signage naming a small island cluster whose rock is colored by iron oxide) → **Orangeninseln** — single compound noun (not hyphenated), deliberately reusing the "Orange" = fruit/color double meaning that already exists in the English name, since German "orange" (the color) derives from "die Orange" (the fruit) — "Orangeninseln" literally reads as "islands of oranges" while also meaning "the orange-colored islands", same ambiguity as the source.
+**SUPERSEDED by ADR-0003**: place names now stay in exact English everywhere, embedded as-is inside German sentences (e.g. "nimm einfach den White Coast Trail und geh..."). The German translations below were the original ADR-0002 coinages, used until playtesting — kept here for history/reference and because they're still the basis for `LANG_German_Full.yarn_lines.csv` (the pre-reversal full-German file, preserved for rollback). Do NOT reintroduce these into `LANG_German.yarn_lines.csv`.
+
+- White Coast Trail (was **Weißküstenpfad**)
+- Rangers Cabin (was **Rangerhütte**)
+- Hawk Peak (was **Habichtsgipfel**)
+- Hawk Peak Trail (was **Habichtsgipfelpfad**)
+- Meteor Lake (was **Meteorsee**)
+- Meteor Lake Overlook (was **Meteorsee-Aussicht**)
+- Visitor Center (was **Besucherzentrum**)
+- Sid Beach (was **Sid-Strand**)
+- Shirley's Point (was **Shirleys Landspitze**)
+- Blackwood Trail (was **Schwarzholzpfad**)
+- Royal Ridge (was **Königsgrat**)
+- Good Creek Path (was **Gutbachweg**)
+- White Beach Trail — source-text inconsistency, unified to White Coast Trail (see RESOLVED note in prior glossary history)
+- Hawk Peak Provincial Park (was **Habichtsgipfel-Provinzpark**) — full phrase reverts, not a German-descriptor hybrid
+- Outlook Point (was **Aussichtspunkt**)
+- Harbord Ridge (was **Harbord-Grat**)
+- Pat's Point (was **Pats Landspitze**)
+- firetower (was **Feuerwachturm**) — kept lowercase, matching exact source casing
+- Blackwood Forest (was **Schwarzholzwald**)
+- Hawk Peak Island (was **Habichtsgipfel-Insel**)
+- Blackwood Forest Lighthouse (was **Schwarzholzwald-Leuchtturm**) — full phrase reverts
+- Orange Islands (was **Orangeninseln**)
+
+Note: `line:87fc49` ("i'm goonnaa hike to hawwk peaak", a stretched-vowel joke line) needed a manual fix since it didn't match the mechanical find-replace — became `"ich waaander zum hawwk peeeak hoch"`, keeping the same playful vowel-stretching on the now-English place name.
 
 ## Recurring words/phrases
 
