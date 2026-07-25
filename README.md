@@ -1,6 +1,6 @@
-# A Short Hike: Inoffizielle Deutsche Übersetzung
+# A Short Hike: Inoffizielle Deutsche Übersetzung im Ton des Originals
 
-**_A Short Hike: Unofficial German Translation_**
+**_A Short Hike: Unofficial German Translation, matching the tone of the original_**
 
 ![A Short Hike](a-short-hike-cover.jpg)
 
