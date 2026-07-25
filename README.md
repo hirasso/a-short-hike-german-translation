@@ -1,6 +1,6 @@
-# A Short Hike: Deutsche Übersetzung
+# A Short Hike: Inoffizielle Deutsche Übersetzung
 
-**_A Short Hike: German Translation_**
+**_A Short Hike: Unofficial German Translation_**
 
 ![A Short Hike](a-short-hike-cover.jpg)
 
@@ -11,6 +11,10 @@
 ## Deutsch
 
 Eine inoffizielle deutsche Übersetzung von *A Short Hike*. Claire wandert jetzt auch auf Deutsch.
+
+### Compatibilät
+
+Basierend auf der Version `1.10.2` des Spieles
 
 ### Installation
 
